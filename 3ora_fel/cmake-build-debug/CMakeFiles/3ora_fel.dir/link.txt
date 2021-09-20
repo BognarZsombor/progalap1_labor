@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--enable-auto-import CMakeFiles/3ora_fel.dir/main.c.o -o 3ora_fel.exe -Wl,--out-implib,lib3ora_fel.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

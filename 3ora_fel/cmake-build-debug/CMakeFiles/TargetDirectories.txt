@@ -1,0 +1,3 @@
+/cygdrive/d/programok/progalap1_labor/3ora_fel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/programok/progalap1_labor/3ora_fel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/programok/progalap1_labor/3ora_fel/cmake-build-debug/CMakeFiles/3ora_fel.dir
