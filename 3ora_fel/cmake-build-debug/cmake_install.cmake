@@ -1,4 +1,4 @@
-# Install script for directory: /cygdrive/d/programok/progalap1_labor/3ora_fel
+# Install script for directory: /cygdrive/d/Programok/C/progalap1_labor/3ora_fel
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/cygdrive/d/programok/progalap1_labor/3ora_fel/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/cygdrive/d/Programok/C/progalap1_labor/3ora_fel/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

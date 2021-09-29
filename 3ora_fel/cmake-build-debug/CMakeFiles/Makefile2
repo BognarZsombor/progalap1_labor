@@ -45,19 +45,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /cygdrive/c/Users/bzsom/AppData/Local/JetBrains/CLion2021.2/cygwin_cmake/bin/cmake.exe
+CMAKE_COMMAND = /cygdrive/c/Users/Zsombor/AppData/Local/JetBrains/CLion2021.2/cygwin_cmake/bin/cmake.exe
 
 # The command to remove a file.
-RM = /cygdrive/c/Users/bzsom/AppData/Local/JetBrains/CLion2021.2/cygwin_cmake/bin/cmake.exe -E rm -f
+RM = /cygdrive/c/Users/Zsombor/AppData/Local/JetBrains/CLion2021.2/cygwin_cmake/bin/cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/d/programok/progalap1_labor/3ora_fel
+CMAKE_SOURCE_DIR = /cygdrive/d/Programok/C/progalap1_labor/3ora_fel
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/d/programok/progalap1_labor/3ora_fel/cmake-build-debug
+CMAKE_BINARY_DIR = /cygdrive/d/Programok/C/progalap1_labor/3ora_fel/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/3ora_fel.dir/clean
 CMakeFiles/3ora_fel.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/3ora_fel.dir/build.make CMakeFiles/3ora_fel.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/3ora_fel.dir/build.make CMakeFiles/3ora_fel.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/cygdrive/d/programok/progalap1_labor/3ora_fel/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target 3ora_fel"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/cygdrive/d/Programok/C/progalap1_labor/3ora_fel/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target 3ora_fel"
 .PHONY : CMakeFiles/3ora_fel.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/3ora_fel.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/d/programok/progalap1_labor/3ora_fel/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/d/Programok/C/progalap1_labor/3ora_fel/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/3ora_fel.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/d/programok/progalap1_labor/3ora_fel/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/d/Programok/C/progalap1_labor/3ora_fel/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/3ora_fel.dir/rule
 
 # Convenience name for target.

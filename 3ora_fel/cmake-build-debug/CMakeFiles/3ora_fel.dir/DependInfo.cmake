@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/cygdrive/d/programok/progalap1_labor/3ora_fel/main.c" "/cygdrive/d/programok/progalap1_labor/3ora_fel/cmake-build-debug/CMakeFiles/3ora_fel.dir/main.c.o"
+  "/cygdrive/d/Programok/C/progalap1_labor/3ora_fel/main.c" "/cygdrive/d/Programok/C/progalap1_labor/3ora_fel/cmake-build-debug/CMakeFiles/3ora_fel.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
