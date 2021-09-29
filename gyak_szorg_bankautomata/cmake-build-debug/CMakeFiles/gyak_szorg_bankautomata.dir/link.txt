@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--enable-auto-import CMakeFiles/gyak_szorg_bankautomata.dir/main.c.o -o gyak_szorg_bankautomata.exe -Wl,--out-implib,libgyak_szorg_bankautomata.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
