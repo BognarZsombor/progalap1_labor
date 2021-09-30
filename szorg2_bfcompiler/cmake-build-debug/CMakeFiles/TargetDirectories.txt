@@ -1,0 +1,3 @@
+/cygdrive/d/programok/progalap1_labor/szorg2_bfcompiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/programok/progalap1_labor/szorg2_bfcompiler/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/programok/progalap1_labor/szorg2_bfcompiler/cmake-build-debug/CMakeFiles/szorg2_bfcompiler.dir
