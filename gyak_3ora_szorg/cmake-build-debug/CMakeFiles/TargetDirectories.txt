@@ -1,0 +1,3 @@
+/cygdrive/d/Programok/C/progalap1_labor/gyak_3ora_szorg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/Programok/C/progalap1_labor/gyak_3ora_szorg/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/Programok/C/progalap1_labor/gyak_3ora_szorg/cmake-build-debug/CMakeFiles/gyak_3ora_szorg.dir
