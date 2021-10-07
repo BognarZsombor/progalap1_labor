@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/d/programok/progalap1_labor/szorg2_bfcompiler/main.c
+/cygdrive/d/Programok/C/progalap1_labor/szorg2_bfcompiler/main.c
 stdio.h
 -
+string.h
+/cygdrive/d/Programok/C/progalap1_labor/szorg2_bfcompiler/string.h
 

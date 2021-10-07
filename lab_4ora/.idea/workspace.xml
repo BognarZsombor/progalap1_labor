@@ -12,8 +12,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51a9c3fb-a20d-41ed-b212-4bc44780e244" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../gyak_3ora_szorg/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gyak_3ora_szorg/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gyak_3ora_szorg/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../gyak_3ora_szorg/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab_4ora.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab_4ora.dir/main.c.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/lab_4ora.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/lab_4ora.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/3.20.2/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/3.20.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/szorg2_bfcompiler.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/szorg2_bfcompiler.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/szorg2_bfcompiler.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/szorg2_bfcompiler.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/szorg2_bfcompiler.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/szorg2_bfcompiler.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/szorg2_bfcompiler.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/szorg2_bfcompiler.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/szorg2_bfcompiler.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/szorg2_bfcompiler.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/szorg2_bfcompiler.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/szorg2_bfcompiler.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/szorg2_bfcompiler.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/szorg2_bfcompiler.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/szorg2_bfcompiler.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/szorg2_bfcompiler.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/szorg2_bfcompiler.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/szorg2_bfcompiler.dir/main.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/szorg2_bfcompiler.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/CMakeFiles/szorg2_bfcompiler.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/szorg2_bfcompiler.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/szorg2_bfcompiler.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/szorg2_bfcompiler.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/cmake-build-debug/szorg2_bfcompiler.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../szorg2_bfcompiler/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg2_bfcompiler/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,22 +93,13 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="lab_4ora" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab_4ora" TARGET_NAME="lab_4ora" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab_4ora" RUN_TARGET_NAME="lab_4ora">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -85,6 +113,8 @@
       <updated>1632935181863</updated>
       <workItem from="1632935183875" duration="3885000" />
       <workItem from="1632990039779" duration="41000" />
+      <workItem from="1633011940663" duration="1854000" />
+      <workItem from="1633016012218" duration="8000" />
     </task>
     <servers />
   </component>

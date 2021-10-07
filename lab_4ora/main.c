@@ -99,20 +99,82 @@ void feladat4() {
     /* 4-es versenyző születési dátumát (írd meg a datum_kiir függvényt!) */
     datum_kiir(versenyzok[4].szuletes);
     /* 1-es versenyző nevének kezdőbetűjét (ne feledd, a sztring karaktertömb) */
-    printf("%c", versenyzok[1].nev[0]);
+    printf("%c\n", versenyzok[1].nev[0]);
     /* az 1-es versenyző dobogós-e? igen/nem, akár ?: operátorral, de egy printf-fel */
-    printf("")
+    versenyzok[1].helyezes == 1? printf("igen\n") : printf("nem\n");
     /* az 4-es versenyző gyorsabb-e, mint a 3-as versenyző? */
+    versenyzok[4].helyezes > versenyzok[3].helyezes ? printf("igen\n") : printf("nem\n");
     /* az 1-es versenyző ugyanabban az évben született-e, mint a 2-es? */
+    versenyzok[1].szuletes.ev == versenyzok[2].szuletes.ev ? printf("igen\n") : printf("nem\n");
     /* egészítsd ki a versenyzo_kiir() függvényt,
      * aztán írd ki az 1-es versenyző összes adatát */
+    versenyzo_kiir(versenyzok[1]);
     /* végül listázd ki az összes versenyzőt sorszámozva, összes adatukkal. */
+    for (int i = 0; i < 5; ++i) {
+        printf("%d. versenyző: ", i);
+        versenyzo_kiir(versenyzok[i]);
+    }
+}
+
+void visszaallit(int *a) {
+    *a = 1;
+}
+
+void hozzaad(int *a) {
+    *a += 1;
+}
+
+void elojel(int *a) {
+    *a = -*a;
+}
+
+void szorzas(int *a) {
+    *a *= 2;
+}
+
+void feladat5() {
+    int run = 1;
+    int a = 1;
+    int c;
+    while (run) {
+        printf("0. Alapertek visszaallitasa (a = %d)\n"
+               "1. Hozzaad 1-et\n"
+               "2. Megforditja az elojelet\n"
+               "3. Szorozza 2-vel\n"
+               "9. Kilepes\n"
+               "Parancs: ", a);
+
+        scanf("%d", &c);
+
+        switch (c) {
+            case 0:
+                visszaallit(&a);
+                break;
+            case 1:
+                hozzaad(&a);
+                break;
+            case 2:
+                elojel(&a);
+                break;
+            case 3:
+                szorzas(&a);
+                break;
+            case 9:
+                run = 0;
+                break;
+            default:
+                printf("Ismeretlen parancs!");
+                break;
+        }
+    }
+
 }
 
 int main() {
-    /*feladat1();
+    feladat1();
     feladat2();
-    feladat3();*/
+    feladat3();
     feladat4();
+    feladat5();
     return 0;
 }

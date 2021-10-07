@@ -1,9 +1,6 @@
 #include <stdio.h>
 
-int main() {
-    int bytes[32768] = {0};
-
-    char programkod[] = ">++++++++++[>+++++++++>++++++++++++>+++++++++++>+++++++++++>++++++++++>+++++++++++>+++++++++++><<<<<<<<-]>>----->+>->-->+>++++><<<<<<<<>.>.>.>.>.>.>.";
+int run_code(char *programkod, int *bytes) {
     int c = 0;
     int p = 0;
     int run = 1;
@@ -31,7 +28,11 @@ int main() {
                 printf("%c", (char) bytes[c]);
                 break;
             case ',':
-                scanf("%d", &bytes[c]);
+                if (scanf("%d", &bytes[c]) != EOF) {
+                    scanf("%d", &bytes[c]);
+                } else {
+                    bytes[c] = -1;
+                }
                 break;
             case '[':
                 if (bytes[c] == 0) {
@@ -69,6 +70,19 @@ int main() {
                 break;
         }
     }
+    return 0;
+}
+
+int main() {
+    int bytes[32768] = {0};
+    char programkod[] = ">++++++++++[>+++++++++>++++++++++++>+++++++++++>+++++++++++>++++++++++>+++++++++++>+++++++++++><<<<<<<<-]>>----->+>->-->+>++++><<<<<<<<>.>.>.>.>.>.>.";
+    run_code(programkod, bytes);
+
+    char kod[10000] = "";
+    printf("\nProgramkód: ");
+    scanf("%s", kod);
+
+    run_code(kod, bytes);
 
     return 0;
 }

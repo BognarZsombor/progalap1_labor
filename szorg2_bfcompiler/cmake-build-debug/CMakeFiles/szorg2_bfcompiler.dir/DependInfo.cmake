@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/cygdrive/d/programok/progalap1_labor/szorg2_bfcompiler/main.c" "/cygdrive/d/programok/progalap1_labor/szorg2_bfcompiler/cmake-build-debug/CMakeFiles/szorg2_bfcompiler.dir/main.c.o"
+  "/cygdrive/d/Programok/C/progalap1_labor/szorg2_bfcompiler/main.c" "/cygdrive/d/Programok/C/progalap1_labor/szorg2_bfcompiler/cmake-build-debug/CMakeFiles/szorg2_bfcompiler.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
