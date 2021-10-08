@@ -11,12 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1225e2ae-2ecc-4a2a-9689-3605c49a009e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/gyak5_szorg.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/gyak5_szorg.dir/main.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/gyak5_szorg.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/gyak5_szorg.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
-    </list>
+    <list default="true" id="1225e2ae-2ecc-4a2a-9689-3605c49a009e" name="Changes" comment="gyak5_szorg javított" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,8 +69,16 @@
       <option name="presentableId" value="Default" />
       <updated>1633625165249</updated>
       <workItem from="1633625166899" duration="1326000" />
-      <workItem from="1633690322976" duration="313000" />
+      <workItem from="1633690322976" duration="378000" />
     </task>
+    <task id="LOCAL-00001" summary="gyak5_szorg javított">
+      <created>1633690661779</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633690661779</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,5 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="gyak5_szorg javított" />
+    <option name="LAST_COMMIT_MESSAGE" value="gyak5_szorg javított" />
   </component>
 </project>
