@@ -29,16 +29,15 @@ int main() {
     Pont start, a, b;
     double ossz = 0;
     start = beolvas();
-    b = start;
+    a = start;
 
-    while (!egyenlo(start, a)) {
-        a = beolvas();
+    do {
+        b = beolvas();
         ossz += tav(a, b);
-        printf("akttav: %lf\n", ossz);
-        b = a;
-    }
+        a = b;
+    } while (!egyenlo(start, a));
 
-    printf("Távolság: %d\n", ossz);
+    printf("Távolság: %lf\n", ossz);
 
     return 0;
 }
