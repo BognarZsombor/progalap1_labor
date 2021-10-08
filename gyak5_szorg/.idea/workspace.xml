@@ -11,7 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1225e2ae-2ecc-4a2a-9689-3605c49a009e" name="Changes" comment="gyak5_szorg javított" />
+    <list default="true" id="1225e2ae-2ecc-4a2a-9689-3605c49a009e" name="Changes" comment="gyak5_szorg javított">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1633625165249</updated>
       <workItem from="1633625166899" duration="1326000" />
-      <workItem from="1633690322976" duration="378000" />
+      <workItem from="1633690322976" duration="458000" />
     </task>
     <task id="LOCAL-00001" summary="gyak5_szorg javított">
       <created>1633690661779</created>
