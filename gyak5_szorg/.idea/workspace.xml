@@ -13,6 +13,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1225e2ae-2ecc-4a2a-9689-3605c49a009e" name="Changes" comment="gyak5_szorg javított">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/gyak5_szorg.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/gyak5_szorg.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/gyak5_szorg.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/gyak5_szorg.dir/main.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/gyak5_szorg.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/gyak5_szorg.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,19 +49,9 @@
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="gyak5_szorg" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gyak5_szorg" TARGET_NAME="gyak5_szorg" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gyak5_szorg" RUN_TARGET_NAME="gyak5_szorg">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -71,7 +64,11 @@
       <option name="presentableId" value="Default" />
       <updated>1633625165249</updated>
       <workItem from="1633625166899" duration="1326000" />
-      <workItem from="1633690322976" duration="458000" />
+      <workItem from="1633690322976" duration="547000" />
+      <workItem from="1633868364434" duration="1485000" />
+      <workItem from="1633870180521" duration="3000" />
+      <workItem from="1633969644721" duration="266000" />
+      <workItem from="1633978049543" duration="16000" />
     </task>
     <task id="LOCAL-00001" summary="gyak5_szorg javított">
       <created>1633690661779</created>
@@ -80,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633690661779</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="gyak5_szorg javított">
+      <created>1633690796568</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633690796568</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--enable-auto-import CMakeFiles/lab6_hf.dir/main.c.o -o lab6_hf.exe -Wl,--out-implib,liblab6_hf.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
