@@ -1,0 +1,3 @@
+D:/programok/progalap1_labor/szorg_sdl/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/programok/progalap1_labor/szorg_sdl/cmake-build-debug/CMakeFiles/szorg_sdl.dir
+D:/programok/progalap1_labor/szorg_sdl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
