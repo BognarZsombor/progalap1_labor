@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "2ora_szorg.exe"
+  "2ora_szorg.exe.manifest"
   "2ora_szorg.pdb"
-  "CMakeFiles/2ora_szorg.dir/main.c.o"
+  "CMakeFiles/2ora_szorg.dir/main.c.obj"
   "lib2ora_szorg.dll.a"
 )
 
