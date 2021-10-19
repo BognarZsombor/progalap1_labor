@@ -11,18 +11,18 @@ int fib(int a) {
 }
 
 //2 feladat
-int tomb_kiir(int i, int meret, int *tomb) {
-    if (i == meret) {
-        return 0;
+void tomb_kiir(int i, int meret, int *tomb) {
+    if (i >= meret - 1) {
+        printf("%d, ", tomb[i]);
     } else {
         printf("%d, ", tomb[i]);
         tomb_kiir(i + 1, meret, tomb);
     }
 }
 
-int tomb_kiir_vissza(int i, int meret, int *tomb) {
-    if (i == meret) {
-        return 0;
+void tomb_kiir_vissza(int i, int meret, int *tomb) {
+    if (i >= meret - 1) {
+        printf("%d, ", tomb[i]);
     } else {
         tomb_kiir_vissza(i + 1, meret, tomb);
         printf("%d, ", tomb[i]);
@@ -47,9 +47,9 @@ void feladat2(int *tomb, int meret) {
 //4 feladat
 int szamrendsz(int i, int sz, int szr) {
     if (sz / 10 == 0) {
-        return sz * pow(szr, i);
+        return sz * (int) pow(szr, i);
     } else {
-        return sz % 10 * pow(szr, i) + szamrendsz(i+1, sz/10, szr);
+        return sz % 10 * (int) pow(szr, i) + szamrendsz(i+1, sz/10, szr);
     }
 }
 
