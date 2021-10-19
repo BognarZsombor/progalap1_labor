@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\lab8_hf.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\lab8_hf.dir/objects.a @CMakeFiles\lab8_hf.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\lab8_hf.dir/objects.a -Wl,--no-whole-archive -o lab8_hf.exe -Wl,--out-implib,liblab8_hf.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\lab8_hf.dir\linklibs.rsp
