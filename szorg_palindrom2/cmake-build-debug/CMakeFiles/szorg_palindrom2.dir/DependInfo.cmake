@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/Programok/C/progalap1_labor/szorg_palindrom2/main.c" "D:/Programok/C/progalap1_labor/szorg_palindrom2/cmake-build-debug/CMakeFiles/szorg_palindrom2.dir/main.c.obj"
+  "C:/Users/Zsombor/Documents/CLion projects/progalap1_labor/szorg_palindrom2/main.c" "C:/Users/Zsombor/Documents/CLion projects/progalap1_labor/szorg_palindrom2/cmake-build-debug/CMakeFiles/szorg_palindrom2.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

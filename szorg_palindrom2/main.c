@@ -22,7 +22,7 @@ bool palindrom(char text[]) {
             volt_hiba = true;
     }
 
-
+    return !volt_hiba;
 }
 
 int main() {

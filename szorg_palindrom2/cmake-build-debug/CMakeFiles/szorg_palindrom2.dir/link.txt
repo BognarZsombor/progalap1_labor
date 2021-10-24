@@ -1,3 +1,3 @@
-"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\szorg_palindrom2.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\szorg_palindrom2.dir/objects.a @CMakeFiles\szorg_palindrom2.dir\objects1.rsp
-C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\szorg_palindrom2.dir/objects.a -Wl,--no-whole-archive -o szorg_palindrom2.exe -Wl,--out-implib,libszorg_palindrom2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\szorg_palindrom2.dir\linklibs.rsp
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\szorg_palindrom2.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\szorg_palindrom2.dir/objects.a @CMakeFiles\szorg_palindrom2.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\szorg_palindrom2.dir/objects.a -Wl,--no-whole-archive -o szorg_palindrom2.exe -Wl,--out-implib,libszorg_palindrom2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\szorg_palindrom2.dir\linklibs.rsp

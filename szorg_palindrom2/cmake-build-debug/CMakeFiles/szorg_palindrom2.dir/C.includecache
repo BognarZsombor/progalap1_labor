@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-D:/Programok/C/progalap1_labor/szorg_palindrom2/main.c
+C:/Users/Zsombor/Documents/CLion projects/progalap1_labor/szorg_palindrom2/main.c
 stdio.h
 -
 ctype.h
 -
 string.h
-D:/Programok/C/progalap1_labor/szorg_palindrom2/string.h
+C:/Users/Zsombor/Documents/CLion projects/progalap1_labor/szorg_palindrom2/string.h
 stdbool.h
-D:/Programok/C/progalap1_labor/szorg_palindrom2/stdbool.h
+C:/Users/Zsombor/Documents/CLion projects/progalap1_labor/szorg_palindrom2/stdbool.h
 
