@@ -1,3 +1,3 @@
-C:/Users/Zsombor/Documents/CLion projects/progalap1_labor/gyakszorg_base64/cmake-build-debug/CMakeFiles/gyakszorg_base64.dir
-C:/Users/Zsombor/Documents/CLion projects/progalap1_labor/gyakszorg_base64/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Zsombor/Documents/CLion projects/progalap1_labor/gyakszorg_base64/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Programok/C/progalap1_labor/gyakszorg_base64/cmake-build-debug/CMakeFiles/gyakszorg_base64.dir
+D:/Programok/C/progalap1_labor/gyakszorg_base64/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programok/C/progalap1_labor/gyakszorg_base64/cmake-build-debug/CMakeFiles/rebuild_cache.dir

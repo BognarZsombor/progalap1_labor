@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Programok/C/progalap1_labor/gyakszorg_base64/main.c
+stdio.h
+-
+math.h
+D:/Programok/C/progalap1_labor/gyakszorg_base64/math.h
+

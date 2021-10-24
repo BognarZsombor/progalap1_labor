@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/Zsombor/Documents/CLion projects/progalap1_labor/gyakszorg_base64/main.c" "C:/Users/Zsombor/Documents/CLion projects/progalap1_labor/gyakszorg_base64/cmake-build-debug/CMakeFiles/gyakszorg_base64.dir/main.c.obj"
+  "D:/Programok/C/progalap1_labor/gyakszorg_base64/main.c" "D:/Programok/C/progalap1_labor/gyakszorg_base64/cmake-build-debug/CMakeFiles/gyakszorg_base64.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
