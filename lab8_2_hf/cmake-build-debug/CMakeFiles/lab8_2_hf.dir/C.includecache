@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-D:/programok/progalap1_labor/lab8_hf/main.c
+D:/Programok/C/progalap1_labor/lab8_2_hf/main.c
 stdio.h
 -
-math.h
-D:/programok/progalap1_labor/lab8_hf/math.h
+stdlib.h
+-
 

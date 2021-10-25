@@ -1,8 +1,8 @@
-# Install script for directory: D:/Programok/C/progalap1_labor/lab8_hf
+# Install script for directory: D:/Programok/C/progalap1_labor/lab8_2_hf
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/lab8_hf")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/lab8_2_hf")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Programok/C/progalap1_labor/lab8_hf/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Programok/C/progalap1_labor/lab8_2_hf/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

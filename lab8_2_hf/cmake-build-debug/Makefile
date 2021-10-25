@@ -56,10 +56,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\Programok\C\progalap1_labor\lab8_hf
+CMAKE_SOURCE_DIR = D:\Programok\C\progalap1_labor\lab8_2_hf
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\Programok\C\progalap1_labor\lab8_hf\cmake-build-debug
+CMAKE_BINARY_DIR = D:\Programok\C\progalap1_labor\lab8_2_hf\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Programok\C\progalap1_labor\lab8_hf\cmake-build-debug\CMakeFiles D:\Programok\C\progalap1_labor\lab8_hf\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\Programok\C\progalap1_labor\lab8_2_hf\cmake-build-debug\CMakeFiles D:\Programok\C\progalap1_labor\lab8_2_hf\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Programok\C\progalap1_labor\lab8_hf\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\Programok\C\progalap1_labor\lab8_2_hf\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -116,24 +116,24 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named lab8_hf
+# Target rules for targets named lab8_2_hf
 
 # Build rule for target.
-lab8_hf: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 lab8_hf
-.PHONY : lab8_hf
+lab8_2_hf: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 lab8_2_hf
+.PHONY : lab8_2_hf
 
 # fast build rule for target.
-lab8_hf/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab8_hf.dir\build.make CMakeFiles/lab8_hf.dir/build
-.PHONY : lab8_hf/fast
+lab8_2_hf/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab8_2_hf.dir\build.make CMakeFiles/lab8_2_hf.dir/build
+.PHONY : lab8_2_hf/fast
 
 main.obj: main.c.obj
 .PHONY : main.obj
 
 # target to build an object file
 main.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab8_hf.dir\build.make CMakeFiles/lab8_hf.dir/main.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab8_2_hf.dir\build.make CMakeFiles/lab8_2_hf.dir/main.c.obj
 .PHONY : main.c.obj
 
 main.i: main.c.i
@@ -141,7 +141,7 @@ main.i: main.c.i
 
 # target to preprocess a source file
 main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab8_hf.dir\build.make CMakeFiles/lab8_hf.dir/main.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab8_2_hf.dir\build.make CMakeFiles/lab8_2_hf.dir/main.c.i
 .PHONY : main.c.i
 
 main.s: main.c.s
@@ -149,7 +149,7 @@ main.s: main.c.s
 
 # target to generate assembly for a file
 main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab8_hf.dir\build.make CMakeFiles/lab8_hf.dir/main.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab8_2_hf.dir\build.make CMakeFiles/lab8_2_hf.dir/main.c.s
 .PHONY : main.c.s
 
 # Help Target
@@ -160,7 +160,7 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... lab8_hf
+	@echo ... lab8_2_hf
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
