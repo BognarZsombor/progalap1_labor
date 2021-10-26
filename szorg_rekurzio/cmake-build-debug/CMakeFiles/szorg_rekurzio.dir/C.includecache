@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Zsombor/Documents/CLion projects/szorg_rekurzio/main.c
+stdio.h
+-
+stdlib.h
+C:/Users/Zsombor/Documents/CLion projects/szorg_rekurzio/stdlib.h
+
