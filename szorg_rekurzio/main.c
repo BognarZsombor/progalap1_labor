@@ -15,7 +15,7 @@ char *beolvas(int meret) {
 }
 
 void *sort_beolvas(void) {
-    beolvas(0);
+    return beolvas(0);
 }
 
 int main() {
