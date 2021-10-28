@@ -13,6 +13,7 @@
   <component name="ChangeListManager">
     <list default="true" id="89485a90-f7a0-4f51-ad09-555f854b8cb3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
@@ -55,6 +56,8 @@
       <change beforePath="$PROJECT_DIR$/../szorg_rekurzio/cmake-build-debug/szorg_rekurzio.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg_rekurzio/cmake-build-debug/szorg_rekurzio.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../szorg_rekurzio/cmake-build-debug/szorg_rekurzio.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg_rekurzio/cmake-build-debug/szorg_rekurzio.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../szorg_rekurzio/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../szorg_rekurzio/main.c" afterDir="false" />
+=======
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +88,11 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
+<<<<<<< Updated upstream
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../szorg_rekurzio" />
+>>>>>>> Stashed changes
   </component>
   <component name="RunManager">
     <configuration name="lab8_2_hf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab8_2_hf" TARGET_NAME="lab8_2_hf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab8_2_hf" RUN_TARGET_NAME="lab8_2_hf">
@@ -109,8 +116,12 @@
       <updated>1635183289979</updated>
       <workItem from="1635183291798" duration="5219000" />
       <workItem from="1635190823193" duration="47000" />
+<<<<<<< Updated upstream
       <workItem from="1635410933640" duration="896000" />
       <workItem from="1635411874106" duration="20000" />
+=======
+      <workItem from="1635275420301" duration="14000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>

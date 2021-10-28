@@ -1,10 +1,19 @@
+<<<<<<< Updated upstream
 "C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" "C:\Users\Zsombor\Documents\CLion projects\progalap1_labor\szorg_rekurzio"
 -- The C compiler identification is GNU 8.1.0
+=======
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" D:\Programok\C\progalap1_labor\szorg_rekurzio
+-- The C compiler identification is GNU 6.3.0
+>>>>>>> Stashed changes
 -- Detecting C compiler ABI info
 -- Detecting C compiler ABI info - done
--- Check for working C compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe - skipped
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe - skipped
 -- Detecting C compile features
 -- Detecting C compile features - done
 -- Configuring done
 -- Generating done
+<<<<<<< Updated upstream
 -- Build files have been written to: C:/Users/Zsombor/Documents/CLion projects/progalap1_labor/szorg_rekurzio/cmake-build-debug
+=======
+-- Build files have been written to: D:/Programok/C/progalap1_labor/szorg_rekurzio/cmake-build-debug
+>>>>>>> Stashed changes
