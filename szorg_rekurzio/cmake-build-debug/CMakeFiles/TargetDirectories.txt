@@ -1,3 +1,3 @@
-C:/Users/Zsombor/Documents/CLion projects/szorg_rekurzio/cmake-build-debug/CMakeFiles/szorg_rekurzio.dir
-C:/Users/Zsombor/Documents/CLion projects/szorg_rekurzio/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Zsombor/Documents/CLion projects/szorg_rekurzio/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Zsombor/Documents/CLion projects/progalap1_labor/szorg_rekurzio/cmake-build-debug/CMakeFiles/szorg_rekurzio.dir
+C:/Users/Zsombor/Documents/CLion projects/progalap1_labor/szorg_rekurzio/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Zsombor/Documents/CLion projects/progalap1_labor/szorg_rekurzio/cmake-build-debug/CMakeFiles/rebuild_cache.dir

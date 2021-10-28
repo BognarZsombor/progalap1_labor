@@ -85,8 +85,6 @@ int main() {
     feladat2();
 
     char *tomb = feladat3();
-    for (int i = 0; tomb[i] != '\n'; ++i) {
-        printf("%c", tomb[i]);
-    }
+    printf("%s", tomb);
     return 0;
 }

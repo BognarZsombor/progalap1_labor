@@ -3,24 +3,25 @@
 
 char *beolvas(int meret) {
     char c = getc(stdin);
-    if (c == '\n') {
-        meret++;
+    if (c == '\n' || c == EOF) {
         char *tomb = (char*) malloc(meret * sizeof(char));
-        tomb[meret-1] = '\0';
+        tomb[meret - 1] = '\0';
         return tomb;
     } else {
-        meret++;
-        char *tomb = beolvas(meret);
-        tomb[meret-1] = c;
+        char *tomb = beolvas(meret + 1);
+        tomb[meret] = c;
         return tomb;
     }
 }
 
+void *sort_beolvas(void) {
+    beolvas(0);
+}
+
 int main() {
     printf("Szoveg: ");
-    char *tomb = beolvas(0);
-    for (int i = 0; tomb[i] != '\0'; ++i) {
-        printf("%c", tomb[i]);
-    }
+    char *tomb = sort_beolvas();
+    printf("%s", tomb);
+    free(tomb);
     return 0;
 }

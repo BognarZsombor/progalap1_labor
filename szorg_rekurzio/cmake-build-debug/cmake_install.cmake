@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Zsombor/Documents/CLion projects/szorg_rekurzio
+# Install script for directory: C:/Users/Zsombor/Documents/CLion projects/progalap1_labor/szorg_rekurzio
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Zsombor/Documents/CLion projects/szorg_rekurzio/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Zsombor/Documents/CLion projects/progalap1_labor/szorg_rekurzio/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
