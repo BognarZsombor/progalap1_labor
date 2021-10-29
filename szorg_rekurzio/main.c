@@ -2,7 +2,7 @@
 #include "stdlib.h"
 
 char *beolvas(int meret) {
-    char c = getc(stdin);
+    int c = getc(stdin);
     if (c == '\n' || c == EOF) {
         char *tomb = (char*) malloc(meret * sizeof(char));
         tomb[meret - 1] = '\0';
