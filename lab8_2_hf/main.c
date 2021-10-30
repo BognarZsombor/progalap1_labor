@@ -81,8 +81,8 @@ char *feladat3() {
 }
 
 int main() {
-    feladat1();
-    feladat2();
+    //feladat1();
+    //feladat2();
 
     char *tomb = feladat3();
     printf("%s", tomb);

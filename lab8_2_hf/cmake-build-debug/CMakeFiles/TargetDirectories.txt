@@ -1,3 +1,3 @@
-C:/Users/Zsombor/Documents/CLion projects/progalap1_labor/lab8_2_hf/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Zsombor/Documents/CLion projects/progalap1_labor/lab8_2_hf/cmake-build-debug/CMakeFiles/lab8_2_hf.dir
-C:/Users/Zsombor/Documents/CLion projects/progalap1_labor/lab8_2_hf/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Programok/C/progalap1_labor/lab8_2_hf/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programok/C/progalap1_labor/lab8_2_hf/cmake-build-debug/CMakeFiles/lab8_2_hf.dir
+D:/Programok/C/progalap1_labor/lab8_2_hf/cmake-build-debug/CMakeFiles/rebuild_cache.dir
