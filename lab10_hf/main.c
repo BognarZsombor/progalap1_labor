@@ -40,12 +40,55 @@ void lista_felszabadit(ListaElem *eleje) {
     }
 }
 
+ListaElem *lista_elejere_beszur(ListaElem *eleje, int elem) {
+    ListaElem *temp = (ListaElem*) malloc(sizeof(ListaElem));
+    temp->adat = elem;
+    temp->kov = eleje;
+    return temp;
+}
+
+ListaElem *lista_vegere_beszur(ListaElem *eleje, int elem) {
+    ListaElem *temp = (ListaElem*) malloc(sizeof(ListaElem));
+    temp->adat = elem;
+    temp->kov = NULL;
+    if (eleje == NULL) {
+        return temp;
+    }
+
+    ListaElem *i;
+    for (i = eleje; i->kov != NULL; i = i->kov) {
+
+    }
+    i->kov = temp;
+    return eleje;
+}
+
+ListaElem *lista_keres(ListaElem *eleje, int elem) {
+    ListaElem *temp;
+    for (temp = eleje; temp != NULL; temp = temp->kov) {
+        if (temp->adat == elem) {
+            return temp;
+        }
+    }
+    return NULL;
+}
+
 int main(void) {
     ListaElem *eleje;
-
     eleje = lista_letrehoz();
-    printf("Hossz: %d", lista_hossza(eleje));
-    lista_felszabadit()
 
+    printf("Hossz: %d\n", lista_hossza(eleje));
+    eleje = lista_elejere_beszur(eleje, 21);
+    eleje = lista_vegere_beszur(eleje, 1);
+    for (ListaElem *temp = eleje; temp != NULL; temp = temp->kov) {
+        printf("%d, ", temp->adat);
+    }
+    printf("\n");
+    ListaElem *keresett = lista_keres(eleje, 1);
+    if (keresett != NULL) {
+        printf("Keresett elem: %d\n", keresett->adat);
+    }
+
+    lista_felszabadit(eleje);
     return 0;
 }
